@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* ----------header-navbar----------- */
+.banner {
+    background: rgba(255, 144, 14, 0.1);
+     color:#FF900E1A;
+}
+
+.title {
+    font-size: 45px;
+    text-align: center;
+    color: #131313;
+    margin: 5px 25px;
+}
+
+.nav-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+
+
+
+}
+
+nav li {
+    color:#424242 ;
+    list-style: none;
+    margin: 25px 25px;
+}
+
+.container {
+    margin: 250px 550px 40px 290px;
+    width: 862px;
+    height: 225px;
+
+}
+.banner-title{
+    font-size: 64px;
+    color: #131313;
+}
+.btn-primary{
+    padding: 15px 15px;
+    margin-right: 550px;
+    color: whitesmoke;
+    background-color:orange ;
+}
